@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Red-Game" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="login1.1" transform="translate(-55.000000, -369.000000)" fill="#ED9533" fill-rule="nonzero">
+            <g id="Group-Copy" transform="translate(35.000000, 330.000000)">
+                <g id="Group-4" transform="translate(0.000000, 25.000000)">
+                    <g id="Group-3" transform="translate(20.000000, 14.000000)">
+                        <path d="M8.774,0.58 L7.017,0.58 C4.4,0.58 2.258,2.722 2.258,5.339 L2.258,13.118 C2.258,15.735 4.4,17.877 7.017,17.877 L8.775,17.877 C11.392,17.877 13.534,15.736 13.534,13.118 L13.534,5.339 C13.533,2.722 11.392,0.58 8.774,0.58 Z M12.077,12.729 C12.077,14.758 10.417,16.417 8.389,16.417 L7.402,16.417 C5.373,16.417 3.714,14.757 3.714,12.729 L3.714,5.729 C3.714,3.7 5.374,2.041 7.402,2.041 L8.389,2.041 C10.418,2.041 12.077,3.701 12.077,5.729 L12.077,12.729 Z" id="Shape"></path>
+                        <path d="M14,19.42 L2,19.42 C0.895,19.42 0,18.525 0,17.42 L0,10.334 C0,9.229 0.895,8.334 2,8.334 L14,8.334 C15.105,8.334 16,9.229 16,10.334 L16,17.42 C16,18.524 15.105,19.42 14,19.42 Z M8,16 C9.1045695,16 10,15.1045695 10,14 C10,12.8954305 9.1045695,12 8,12 C6.8954305,12 6,12.8954305 6,14 C6,15.1045695 6.8954305,16 8,16 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
